@@ -10,12 +10,9 @@ This project is a fork of [Cardiff Delivers](https://github.com/matpassmore/card
 
 ## Customising
 
-### Creating a new data source
+### Updating business list
 
- * Create a spreadsheet in Google Docs with the columns `name, tags, description, village, collection, delivery, contact, address, latitude, longitude`
- * 'Publish to the web' the spreadsheet as 'Entire Document' in format 'Web page'.
- * Take the document ID from the **spreadsheet** URL (where you go to edit it, not the published doc URL) - it's the long string that comes after `https://docs.google.com/spreadsheets/d/`
- * Insert the document ID into the `sheetID` variable in `/src/_data/prod/sheet.js`
+ * Listing is rendered from JSON in `src/_data/prod/data.json`
 
 ### Templates / content
 
