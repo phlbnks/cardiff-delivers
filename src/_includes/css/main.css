@@ -452,3 +452,57 @@ h2 ~ h2 {
 .mt-0 {
   margin-top: 0;
 }
+
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #2d2d2d;
+    color: #e3e3e3;
+  }
+  [href] {
+    text-decoration-color: #90B6CB;
+  }
+  [href]:hover,
+  [href]:focus {
+    color: #90B6CB;
+  }
+  [href="#main"] {
+    background-color: #000;
+    color: #fff;
+  }
+  [href="#main"]:focus {
+    color: #fff;
+  }
+  input[type="text"] {
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.05), 0 4px 6px -2px rgba(0, 0, 0, 0.025);
+    background-color: #3d3d3d;
+    color: #e3e3e3;
+  }
+  .site-name {
+    color: #ff6229;
+  }
+  .site-name span {
+    color: #90B6CB;
+  }
+  .results {
+    color: #90B6CB;
+  }
+  .card__inner {
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.5), 0 4px 6px -2px rgba(0, 0, 0, 0.25);
+    background-color: #3d3d3d;
+  }
+  .card__tags {
+    color: #90B6CB
+  }
+  .card__locality {
+    border-top: 2px dashed #3d3d3d;
+    color: #90B6CB;
+  }
+  .card__delivery span {
+    background-color: #ff6229;
+    color: unset;
+  }
+  .demands {
+    color: #ff6229;
+  }
+}
