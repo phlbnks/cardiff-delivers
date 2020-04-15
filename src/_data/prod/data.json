@@ -94,5 +94,29 @@
     "name": "The Garden Enclosure",
     "tags": "plants, garden supplies",
     "village": "Banham"
+  },
+  {
+    "address": "Sycamore Farm, Pristow Green Lane, Tibenham, Norfolk NR16 1PU",
+    "collection": "yes",
+    "contact": "Tel: 07879 283 272<br/>Web: <a href=\"http://samphireshop.co.uk\">samphireshop.co.uk</a>",
+    "delivery": "no",
+    "description": "Award winning smallholding in Norfolk rearing rare breed pigs and sheep. Along with fresh pork and pork products (pies etc), currently stocking a regularly changing variety of other artisan produce. See the <a href=\"https://www.facebook.com/samphireshop/\">Facebook page</a> or <a href=\"https://nextdoor.co.uk/profile/17592190246715\">Karen's posts on Nextdoor</a> for current stock.",
+    "latitude": "",
+    "longitude": "",
+    "name": "Samphire",
+    "tags": "meat, milk, eggs, bread, cheese",
+    "village": "Tibenham"
+  },
+  {
+    "address": "Rectory Rd, Tivetshall St. Margaret, Norfolk NR15 2EJ",
+    "collection": "no",
+    "contact": "Tel: 07515 870 408<br/>Web: <a href=\"http://www.harrowandfearn.co.uk/tap-tipple\">harrowandfearn.co.uk/tap-tipple</a><br/>Email: <a href=\"mailto:info@harrowandfearn.co.uk\">info@harrowandfearn.co.uk</a>",
+    "delivery": "yes",
+    "description": "Home delivery - milk man style service, but with wine!\nJoin in the #RefillRevolution - every Thursday we deliver between 5 - 8pm.\nWe take away the empties and replace with fresh refills of your favourite Tipple.\nOrder below before 12pm on the day of delivery and we'll get you added onto the round.",
+    "latitude": "",
+    "longitude": "",
+    "name": "Tap & Tipple",
+    "tags": "alcohol",
+    "village": "Tivetshall St. Margaret"
   }
 ]
