@@ -118,5 +118,17 @@
     "name": "Tap & Tipple",
     "tags": "alcohol",
     "village": "Tivetshall St. Margaret"
+  },
+  {
+    "address": "Rosary Farm, Kenninghall Road, Banham, Norfolk NR16 2HB",
+    "collection": "no",
+    "contact": "Tel: 01953 887 275 <br/>Web: <a href=\"https://www.banhamvehicleservices.com/\">banhamvehicleservices.com</a><br/>Email: <a href=\"mailto:info@banhamvehicleservices.com\">info@banhamvehicleservices.com</a>",
+    "delivery": "no",
+    "description": "Family run business offering garage services and refrigerated transport - car and van servicing and MOTs.",
+    "latitude": "",
+    "longitude": "",
+    "name": "Banham Vehicle Services",
+    "tags": "garage",
+    "village": "Banham"
   }
 ]
