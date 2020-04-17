@@ -130,5 +130,17 @@
     "name": "Banham Vehicle Services",
     "tags": "garage",
     "village": "Banham"
+  },
+  {
+    "address": "King Steet, New Buckenham, Norfolk, NR16 2AF",
+    "collection": "yes",
+    "contact": "Tel: 01953 860 264<br/>Web: <a href=\"https://www.facebook.com/Kings-Stores-1940455082695685/\">Facebook page</a>",
+    "delivery": "yes",
+    "description": "General village store with a wide range of local and regional produce.",
+    "latitude": "",
+    "longitude": "",
+    "name": "Kings Stores",
+    "tags": "meat, milk, eggs, bread, fruit, vegetables, deli, alcohol, sundries",
+    "village": "New Buckenham"
   }
 ]
