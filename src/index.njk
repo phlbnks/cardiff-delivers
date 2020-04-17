@@ -10,7 +10,7 @@ layout: layouts/base.njk
 
 <h2 class="visually-hidden">Listings</h2>
 <ul class="[ listings ] [ o-flow ] [ max-w-none ]" id="listings">
-    {% for item in data %}
+    {% for item in data | sort(attribute='name') %}
     <li class="[ card ] [ max-w-none ]">
       {% include('partials/card.njk') %}
     </li>
