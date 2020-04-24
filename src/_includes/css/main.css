@@ -265,7 +265,7 @@ h2 ~ h2 {
 
 .site-nav {
   --flow-space: 1.5rem;
-  margin-top: 2.25rem;
+  margin-top: 1.25rem;
 }
 
 .site-nav__list.site-nav__list {
@@ -422,12 +422,11 @@ h2 ~ h2 {
  * Notification component
  */
 .notification {
-  --flow-space: 0.5em;
-
+  --flow-space: 1em;
   padding: 1.75em 2em 2em;
   border-radius: 5px;
-  border: 1px dashed #179cb0;
-  background-color: rgba(23, 153, 176,0.05);
+  border: 1px dashed #bd3200;
+  background-color: rgba(189, 50, 0,0.03);
 }
 
 
@@ -483,6 +482,10 @@ h2 ~ h2 {
   }
   .site-name span {
     color: #90B6CB;
+  }
+  .notification {
+    border: 1px dashed #90B6CB;
+    background-color: rgba(144, 182, 203,0.05);
   }
   .results {
     color: #90B6CB;
