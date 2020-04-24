@@ -2,7 +2,7 @@
   {
     "address": "The Green, Banham, Norfolk NR16 2AA",
     "collection": "yes",
-    "contact": "Tel: 01953 887 216<br/>Web: <a href=\"https://www.facebook.com/Banham-Post-Office-and-Stores-130493140372521/\">Facebook page</a><br/>Email: <a href=\"mailto:neiltdavey@hotmail.com\">neiltdavey@hotmail.com</a>",
+    "contact": "Tel: 01953 887 216<br/>Web: <a  rel=\"external\" href=\"https://www.facebook.com/Banham-Post-Office-and-Stores-130493140372521/\">Facebook page</a><br/>Email: <a href=\"mailto:neiltdavey@hotmail.com\">neiltdavey@hotmail.com</a>",
     "delivery": "no",
     "description": "Post Office and general village stores. Specialises in local produce.",
     "latitude": "",
@@ -14,7 +14,7 @@
   {
     "address": "The Appleyard, Kenninghall Road, Banham, Norfolk NR16 2HE",
     "collection": "yes",
-    "contact": "Tel: 01953 888 579<br/>Web: <a href=\"https://www.banhambutchers.co.uk/\">banhambutchers.co.uk</a><br/>Email: <a href=\"mailto:info@banhambutchers.co.uk\">info@banhambutchers.co.uk</a>",
+    "contact": "Tel: 01953 888 579<br/>Web: <a  rel=\"external\" href=\"https://www.banhambutchers.co.uk/\">banhambutchers.co.uk</a><br/>Email: <a href=\"mailto:info@banhambutchers.co.uk\">info@banhambutchers.co.uk</a>",
     "delivery": "yes",
     "description": "Family run butchers shop; open seven days a week selling prime local meat, shop produced butchery products, home cooked pies and snacks. Shop open (1 customer inside at once), or order by phone or online. ",
     "latitude": "",
@@ -26,7 +26,7 @@
   {
     "address": "Market place, Kenninghall, Norfolk NR16 2AH",
     "collection": "yes",
-    "contact": "Tel: 01953 716 013<br/>Web: <a href=\"https://www.facebook.com/pg/kenninghallbistro/\">Facebook page</a>",
+    "contact": "Tel: 01953 716 013<br/>Web: <a  rel=\"external\" href=\"https://www.facebook.com/pg/kenninghallbistro/\">Facebook page</a>",
     "delivery": "yes",
     "description": "Bistro menu available for delivery, please call to discuss. Fresh bakes and cakes available for order and collection from Banham Butchers.",
     "latitude": "",
@@ -38,7 +38,7 @@
   {
     "address": "",
     "collection": "no",
-    "contact": "Tel: 07588 556 889<br/>Web: <a href=\"http://www.burnardscider.co.uk\">burnardscider.co.uk</a>",
+    "contact": "Tel: 07588 556 889<br/>Web: <a  rel=\"external\" href=\"http://www.burnardscider.co.uk\">burnardscider.co.uk</a>",
     "delivery": "yes",
     "description": "Small scale CAMRA award winning cider making business in Banham since 1989. We will deliver free of charge within a 20 mile radius of us.",
     "latitude": "",
@@ -50,7 +50,7 @@
   {
     "address": "The Studio, Paperhouse, West Harling, Norfolk NR16 2SF",
     "collection": "no",
-    "contact": "Web: <a href=\"https://www.thelittlewhitelamb.co.uk/\">thelittlewhitelamb.co.uk</a><br/>Email: <a href=\"mailto:sales@thelittlewhitelamb.co.uk\">sales@thelittlewhitelamb.co.uk</a>",
+    "contact": "Web: <a  rel=\"external\" href=\"https://www.thelittlewhitelamb.co.uk/\">thelittlewhitelamb.co.uk</a><br/>Email: <a href=\"mailto:sales@thelittlewhitelamb.co.uk\">sales@thelittlewhitelamb.co.uk</a>",
     "delivery": "yes",
     "description": "Promoting Norfolk and Suffolk artisan food. Delivery within a 15 mile radius of East Harling",
     "latitude": "",
@@ -62,7 +62,7 @@
   {
     "address": "Market Place, Keninghall, Norfolk NR16 2AH",
     "collection": "yes",
-    "contact": "Tel: 01953 887 267<br/>Web: <a href=\"https://www.facebook.com/Kenninghall-Stores-Post-Office-1086410141403103/\">Facebook page</a>",
+    "contact": "Tel: 01953 887 267<br/>Web: <a  rel=\"external\" href=\"https://www.facebook.com/Kenninghall-Stores-Post-Office-1086410141403103/\">Facebook page</a>",
     "delivery": "yes",
     "description": "Convenience Store and Post Office. Delivery for those self-isolating via volunteers of Kenninghall, John Richardson and the Kenninghall News - tel: 07747 325808",
     "latitude": "",
@@ -86,7 +86,7 @@
   {
     "address": "Banham Zoo, Kenninghall Road, Banham, Norfolk NR16 2HE",
     "collection": "no",
-    "contact": "Tel: 01953 888 043<br/>Web: <a href=\"http://www.gardenenclosure.co.uk\">gardenenclosure.co.uk</a>",
+    "contact": "Tel: 01953 888 043<br/>Web: <a  rel=\"external\" href=\"http://www.gardenenclosure.co.uk\">gardenenclosure.co.uk</a>",
     "delivery": "yes",
     "description": "Independent garden centre and gift shop with plants primarily from East Anglian growers. Open for local delivery; please phone 9.30am-5pm any day except Tuesday and Wednesday, to let us know your requirements.",
     "latitude": "",
@@ -98,7 +98,7 @@
   {
     "address": "Sycamore Farm, Pristow Green Lane, Tibenham, Norfolk NR16 1PU",
     "collection": "yes",
-    "contact": "Tel: 07879 283 272<br/>Web: <a href=\"http://samphireshop.co.uk\">samphireshop.co.uk</a>",
+    "contact": "Tel: 07879 283 272<br/>Web: <a  rel=\"external\" href=\"http://samphireshop.co.uk\">samphireshop.co.uk</a>",
     "delivery": "no",
     "description": "Award winning smallholding in Norfolk rearing rare breed pigs and sheep. Along with fresh pork and pork products (pies etc), currently stocking a regularly changing variety of other artisan produce. See the <a href=\"https://www.facebook.com/samphireshop/\">Facebook page</a> or <a href=\"https://nextdoor.co.uk/profile/17592190246715\">Karen's posts on Nextdoor</a> for current stock.",
     "latitude": "",
@@ -110,7 +110,7 @@
   {
     "address": "Rectory Rd, Tivetshall St. Margaret, Norfolk NR15 2EJ",
     "collection": "no",
-    "contact": "Tel: 07515 870 408<br/>Web: <a href=\"http://www.harrowandfearn.co.uk/tap-tipple\">harrowandfearn.co.uk/tap-tipple</a><br/>Email: <a href=\"mailto:info@harrowandfearn.co.uk\">info@harrowandfearn.co.uk</a>",
+    "contact": "Tel: 07515 870 408<br/>Web: <a  rel=\"external\" href=\"http://www.harrowandfearn.co.uk/tap-tipple\">harrowandfearn.co.uk/tap-tipple</a><br/>Email: <a href=\"mailto:info@harrowandfearn.co.uk\">info@harrowandfearn.co.uk</a>",
     "delivery": "yes",
     "description": "Home delivery - milk man style service, but with wine!<br/>Join in the #RefillRevolution - every Thursday we deliver between 5 - 8pm.<br/>We take away the empties and replace with fresh refills of your favourite Tipple.Order before 12pm on the day of delivery and we'll get you added onto the round.",
     "latitude": "",
@@ -122,7 +122,7 @@
   {
     "address": "Rosary Farm, Kenninghall Road, Banham, Norfolk NR16 2HB",
     "collection": "no",
-    "contact": "Tel: 01953 887 275 <br/>Web: <a href=\"https://www.banhamvehicleservices.com/\">banhamvehicleservices.com</a><br/>Email: <a href=\"mailto:info@banhamvehicleservices.com\">info@banhamvehicleservices.com</a>",
+    "contact": "Tel: 01953 887 275 <br/>Web: <a  rel=\"external\" href=\"https://www.banhamvehicleservices.com/\">banhamvehicleservices.com</a><br/>Email: <a href=\"mailto:info@banhamvehicleservices.com\">info@banhamvehicleservices.com</a>",
     "delivery": "no",
     "description": "Family run business offering garage services and refrigerated transport. We repair any make or vehicle - car and van servicing and MOTs. Staying open to help key workers.",
     "latitude": "",
@@ -134,7 +134,7 @@
   {
     "address": "King Steet, New Buckenham, Norfolk, NR16 2AF",
     "collection": "yes",
-    "contact": "Tel: 01953 860 264<br/>Web: <a href=\"https://www.facebook.com/Kings-Stores-1940455082695685/\">Facebook page</a>",
+    "contact": "Tel: 01953 860 264<br/>Web: <a  rel=\"external\" href=\"https://www.facebook.com/Kings-Stores-1940455082695685/\">Facebook page</a>",
     "delivery": "yes",
     "description": "General village store with a wide range of local and regional produce.",
     "latitude": "",
